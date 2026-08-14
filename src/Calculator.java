@@ -5,7 +5,7 @@ public class Calculator {
     }
 
     public static int subtract(int a, int b) {
-        return a + b; // BUG: should be a - b
+        return a - b; // BUG: should be a - b
     }
 
     public static void main(String[] args) {
