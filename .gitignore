@@ -1,0 +1,24 @@
+# Compiled
+*.class
+*.jar
+*.war
+
+# Build output
+out/
+build/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.log

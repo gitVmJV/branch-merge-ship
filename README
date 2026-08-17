@@ -1,0 +1,18 @@
+JAVA GITHUB COURSE PROJECT
+----------------------------------
+DESCRIPTION
+This project is a fork of a pre-existing github repository which consists of three distinct java programs with their own operations and usages
+
+PROJECT USE
+The project consists of a Calculator, Weather and Greeting class:
+- Weather will inform the user whether the inputed temperature is hot,cold or mid
+- Calculator will either add or subtract two values and return the new value
+- Greeting will greet the user when run
+
+CONTRIBUTION
+The project is still undergoing changes, please feel free to use and update. 
+
+BUG FIXES
+- Calculator had the subtract methods operation changed, (+) -> (-)
+- Greeting had it's greeting word changed from "Goodbye" to "Hello"
+- Weather had it's return labels swapped for accuracy
